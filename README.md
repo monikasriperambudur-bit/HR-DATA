@@ -32,3 +32,4 @@ The dataset includes:
 -Age demographic understanding
 -Improved HR decision making through data visualization 
 ## Screenshots
+https://github.com/monikasriperambudur-bit/HR-DATA/blob/main/PROJECT.png
